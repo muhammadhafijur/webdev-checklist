@@ -10,20 +10,22 @@
 - [ ] Third-party services (APIs, payments, embeds) are integrated and tested
 
 ## 2. Performance Optimization
-- [ ] Images are optimized (compressed without quality loss)
 - [ ] CSS/JS is minified
+- [ ] Images are optimized (compressed without quality loss)
 - [ ] Lazy loading is enabled for large assets
 - [ ] Code splitting and tree shaking (if using frameworks like React/Vue)
 - [ ] CDN is configured for static assets (if needed)
 - [ ] Lighthouse or PageSpeed scores are acceptable
 
 ## 3. SEO & Metadata
+- [ ] H1-H6 hierarchy is logical
 - [ ] Title tags and meta descriptions for all pages
 - [ ] Open Graph and Twitter meta tags for social sharing
 - [ ] Sitemap.xml is generated and linked in robots.txt
 - [ ] Robots.txt is present and configured correctly
 - [ ] Canonical tags are set to avoid duplicate content
-- [ ] H1-H6 hierarchy is logical
+- [ ] [llms.txt](https://llmstxt.org/) is included
+- [ ] [carbon.txt](https://carbontxt.org/) is included
 
 ## 4. Security
 - [ ] HTTPS is enforced (SSL/TLS installed)
